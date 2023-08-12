@@ -1,2 +1,1 @@
-# repositoriohenry
-Este es un repositorio del prepcourse henry
+Este proyecto es la primera tarea del prepcurse de Henry
